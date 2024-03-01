@@ -1,10 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there! 👋</h1>
+
+- 👨‍🔬👨‍💻 I’m finishing a double degree in Physics and Electronic Engineering.
+- 🔭 I'm currently working on my two Bachelor's Degree Final Projects. One of them is about using alchemical transformations and molecular dynamics to compute solvation energies. The other one consists in building neural networks to classify handwritten mathematical symbols.
+- 🌱 I’m learning how GitHub works.
 
 <!--
 **BeBerasategi/BeBerasategi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
